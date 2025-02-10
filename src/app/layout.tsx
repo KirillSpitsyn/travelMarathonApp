@@ -52,7 +52,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
 
         {/* Footer */}
         <footer className="bg-dark text-white text-center py-3 mt-auto">
-          <p>© 2025 Путеществия и Марафоны | Все права защищены</p>
+          <p>© 2025 Марафоны и путешествия | Все права защищены</p>
         </footer>
       </body>
     </html>
