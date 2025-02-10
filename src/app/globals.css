@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Global styles for responsive map */
+@media only screen and (max-width: 768px) {
+  .map-container {
+    width: 100%;
+    height: 400px;
+  }
+}
+
